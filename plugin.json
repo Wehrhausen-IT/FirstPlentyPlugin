@@ -1,0 +1,8 @@
+{
+    "name"              :"FirstPlentyPlugin",
+    "description"       :"Mein erstes Plenty Plugin",
+    "namespace"         :"FirstPlentyPlugin",
+    "author"            :"Florian Wehrhausen IT-Dienstleistungen",
+    "type"              :"template",
+    "serviceProvider"   :"FirstPlentyPlugin\\Providers\\FirstPlentyPluginServiceProvider"
+}
