@@ -1,6 +1,6 @@
 <?php
 
-namespace MyFirstPlentyPlugin\Providers;
+namespace FirstPlentyPlugin\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
