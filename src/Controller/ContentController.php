@@ -1,6 +1,6 @@
 <?php
 
-namespace FirstPlentyPlugin\Controllers;
+namespace FirstPlentyPlugin\Controller;
 
 use Plenty\Plugin\Controller;
 use Plenty\Plugin\Templates\Twig;
